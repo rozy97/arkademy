@@ -17,5 +17,7 @@ jawaban soal no 3 bisa di jalankan di javascript console.
 jawaban soal no 5 bisa di jalankan di javascript console.
 
 # Soal no. 4 dan 6 belum selesai 100%
+# no 6 input nama baru programmer sudah bisa
+# no 6 input tambah skill belum selesai,kalo masih ada waktu diupdate
 bisa dilihat dari javascript console dan browser 
 kalo masih sempat waktunya nanti diupdate. trims.
