@@ -12,3 +12,6 @@ jawaban soal no 2 bisa di jalankan di javascript console.
 
 # Soal no. 3
 jawaban soal no 3 bisa di jalankan di javascript console.
+
+# Soal no. 5
+jawaban soal no 5 bisa di jalankan di javascript console.
